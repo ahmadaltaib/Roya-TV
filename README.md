@@ -31,4 +31,4 @@
     
 ## Author
 
-* **Ahmad Ali** - [altaib.net](http://altaib.net/)
+* **Ahmad Ali** 
